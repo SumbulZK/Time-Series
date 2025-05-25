@@ -4,7 +4,7 @@ A collection of Jupyter notebooks exploring various time series analysis techniq
 
 ## Overview
 
-This repository contains a series of notebooks that demonstrate different approaches to time series analysis and anomaly detection. Each notebook focuses on specific techniques and methodologies for analyzing temporal data.
+This repository contains notebooks that demonstrate different approaches to time series analysis and anomaly detection. Each notebook focuses on specific techniques and methodologies for analyzing temporal data.
 
 ## Notebooks
 
